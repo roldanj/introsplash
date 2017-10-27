@@ -1,3 +1,5 @@
 This will be the start of my documentation for the greatest app of all time!
 This message should be in our second commit
 
+Test the diff option
+
